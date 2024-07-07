@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":true,"name":"主世界","order":1,"parentId":0,"scrollX":579.3333333333334,"scrollY":388.3333333333333},
+{"id":2,"expanded":false,"name":"MAP002","order":5,"parentId":1,"scrollX":3088,"scrollY":1369},
+{"id":3,"expanded":true,"name":"普通城鎮","order":2,"parentId":1,"scrollX":1002.6666666666666,"scrollY":1630.3333333333333},
+{"id":4,"expanded":false,"name":"武器商店","order":3,"parentId":3,"scrollX":1158,"scrollY":723},
+{"id":5,"expanded":false,"name":"MAP005","order":6,"parentId":1,"scrollX":1142,"scrollY":733},
+{"id":6,"expanded":false,"name":"大房子 1F","order":4,"parentId":3,"scrollX":816,"scrollY":724},
+{"id":7,"expanded":false,"name":"森林","order":7,"parentId":1,"scrollX":1059.3333333333333,"scrollY":1204.3333333333333}
+]
